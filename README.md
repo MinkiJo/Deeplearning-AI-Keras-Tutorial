@@ -1,7 +1,7 @@
 # Deeplearning-AI-Keras-Tutorial
 <모두의 딥러닝> 
 Keras tensorflow2.0 을 이용한 deeplearning 구현 Clone Coding
-
+2020.08~
 
 ## 머신러닝과 회귀분석
 
