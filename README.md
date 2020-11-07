@@ -48,5 +48,10 @@ Keras tensorflow2.0 을 이용한 deeplearning 구현 Clone Coding
 [MNIST 손글씨 인식 - CNN 사용](https://github.com/MinkiJo/Deeplearning-AI-Keras-Tutorial/blob/main/MNIST_Deep.ipynb)
 
 
+
+
 ## RNN, 자연어 처리
 
+## 
+
+## 전이학습
