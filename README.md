@@ -52,6 +52,6 @@ Keras tensorflow2.0 을 이용한 deeplearning 구현 Clone Coding
 
 ## RNN, 자연어 처리
 
-## 
+## GAN
 
 ## 전이학습
